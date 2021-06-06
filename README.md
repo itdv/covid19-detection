@@ -1,2 +1,2 @@
 # covid19-detection
-https://mybinder.org/v2/gh/itdv/covid19-detection/blob/master/01-eda.ipynb/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/itdv/covid19-detection/HEAD?filepath=01-eda.ipynb)
